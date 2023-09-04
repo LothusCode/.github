@@ -9,6 +9,7 @@ Founded and powered by Nexy & Sync, we created this store to address most of the
 <br/>
 <br/>
 
-![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)
+![License](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Views](https://komarev.com/ghpvc/?username=LothusCode&style=for-the-badge&color=blueviolet)
