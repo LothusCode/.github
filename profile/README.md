@@ -5,7 +5,7 @@ Always looking for performance and optimization, this is a secure and visionary 
 A lightweight loader that stabilizes and takes care of your server's performance without consuming all your memory, like some of our competitors, an example is your plugin being downloaded and loaded in less =~ 200ms
 
 ### 🌐 Developer team
-Founded and powered by Nexy & Sync, we created this store to address most of the problems inserted in this community, delivering the maximum possible performance.
+Founded and powered by [Nexy](https://github.com/Nexxyy) & [Sync](https://github.com/syncwrld), we created this store to address most of the problems inserted in this community, delivering the maximum possible performance.
 <br/>
 <br/>
 
